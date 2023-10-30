@@ -1,0 +1,5 @@
+# FPS_practice
+在局域网使用联机功能
+PlayerSetup负责多角色建立与视听说功能的隔离
+NetworkMananerUI负责按键逻辑
+ClientNetworkTransform负责解除本地客户端限制
